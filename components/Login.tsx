@@ -8,7 +8,7 @@ interface LoginProps {
 }
 
 // Substitua esta URL pela URL real do seu Google Forms
-const REGISTER_FORM_URL = 'https://forms.gle/SEU_LINK_AQUI';
+const REGISTER_FORM_URL = 'https://forms.gle/TLbVQBFiJevCdmkN7';
 
 const TERMS_OF_USE = `
 1. ACEITAÇÃO DOS TERMOS
